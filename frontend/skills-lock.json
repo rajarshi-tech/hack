@@ -7,6 +7,12 @@
       "skillPath": "skills/find-skills/SKILL.md",
       "computedHash": "b146008599c31057cef1c145774cea5d5afb30e8f43fa802e47a4b461419aaaf"
     },
+    "hugeicons": {
+      "source": "hugeicons/hugeicons",
+      "sourceType": "github",
+      "skillPath": "skills/hugeicons/SKILL.md",
+      "computedHash": "c325a72cbfd64b8d7d126b299d2e2bc59848ec1c0046b2d3b75a29c8dd2fcf9d"
+    },
     "shadcn": {
       "source": "shadcn/ui",
       "sourceType": "github",
